@@ -337,6 +337,12 @@
         </exclusion>
       </exclusions>
     </dependency>
+    <!-- https://mvnrepository.com/artifact/org.apache.maven.plugins/maven-gpg-plugin -->
+    <dependency>
+      <groupId>org.apache.maven.plugins</groupId>
+      <artifactId>maven-gpg-plugin</artifactId>
+      <version>1.6</version>
+    </dependency>
     <dependency>
       <groupId>args4j</groupId>
       <artifactId>args4j</artifactId>
